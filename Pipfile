@@ -1,0 +1,42 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+absl-py = "==1.4.0"
+astor = "==0.8.1"
+cached-property = "==1.5.2"
+click = "==7.1.2"
+colorama = "==0.4.5"
+dataclasses = "==0.8"
+flask = "==1.1.4"
+gast = "==0.5.4"
+grpcio = "==1.48.2"
+h5py = "==2.10.0"
+importlib-metadata = "==0.7"
+itsdangerous = "==1.1.0"
+jinja2 = "==2.11.3"
+keras = "==2.3.1"
+keras-applications = "==1.0.8"
+keras-preprocessing = "==1.1.2"
+markdown = "==3.3.4"
+markupsafe = "==2.0.1"
+mock = "==5.1.0"
+numpy = "==1.19.5"
+opencv-python = "==4.6.0.66"
+protobuf = "==3.19.6"
+pyyaml = "==6.0.1"
+scipy = "==1.5.4"
+six = "==1.16.0"
+tensorboard = "==1.13.1"
+tensorflow = "==1.13.1"
+tensorflow-estimator = "==1.13.0"
+termcolor = "==1.1.0"
+werkzeug = "==1.0.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
+python_full_version = "3.6.0"
